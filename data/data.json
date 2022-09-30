@@ -1,0 +1,62 @@
+{
+  "housework": [
+    {
+      "id": 1,
+      "title": "바닥 청소",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "title": "화장실 청소",
+      "completed": false
+    }
+  ],
+  "assignment": [
+    {
+      "id": 2,
+      "title": "custom hooks 공부",
+      "completed": false
+    },
+    {
+      "id": 3,
+      "title": "타입스크립트 공부",
+      "completed": false
+    }
+  ],
+  "diet": [
+    {
+      "id": 3,
+      "title": "오늘은 카레라이스",
+      "completed": false
+    },
+    {
+      "id": 4,
+      "title": "제육볶음 ?",
+      "completed": false
+    }
+  ],
+  "workout": [
+    {
+      "id": 1,
+      "title": "따릉이 타기",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "title": "벤치프레스 300kg",
+      "completed": false
+    }
+  ],
+  "shopping": [
+    {
+      "id": 1,
+      "title": "마트 쇼핑",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "title": "양말 사기",
+      "completed": false
+    }
+  ]
+}
